@@ -1,2 +1,2 @@
 # react-weather-app
-A wether app that takes data from api and show to screen
+A weather app that takes data from api and show to screen
